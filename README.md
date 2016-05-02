@@ -1,5 +1,5 @@
 # jcc
-##Janus Circuit Compiler 
+##Reversible Circuit Compiler 
 
 This compiler is based on a slightly modified version of the Janus programming langange.
 Below are some references:
